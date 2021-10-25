@@ -6,11 +6,7 @@ In this tutorial you will be shown how to download a file in Laravel 8.
  
 Step 1. Downloading project and mount it on a development stack such as Xampp.
 
-Step 2. Open command line and cd to project then run composer install.
-
-Step 3. create .env file and configure database connection
-
-Step 4. run php artisan serve and that is it.
+Step 2. Open command line and cd to project then run php artisan serve.
 
 ## About WeCode101
 
